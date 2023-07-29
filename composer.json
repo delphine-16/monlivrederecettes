@@ -12,5 +12,8 @@
             "name": "Delphine RAOUX",
             "email": "delphine.raoux@laposte.net"
         }
-    ]
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
 }
